@@ -222,7 +222,7 @@ ISC License
 
 ## 👤 Author
 
-Created with ❤️
+Created by Lucas Medeiros.
 
 ---
 
